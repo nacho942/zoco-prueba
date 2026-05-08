@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Bar Irlanda Tucumán",
+    "location": "San Miguel de Tucumán",
+    "source": "mock"
+  },
+  {
+    "name": "Irlanda Bar",
+    "location": "San Miguel de Tucumán",
+    "source": "mock"
+  },
+  {
+    "name": "Craft Beer House",
+    "location": "San Miguel de Tucumán",
+    "source": "mock"
+  },
+  {
+    "name": "Cafe Las Heras",
+    "location": "San Miguel de Tucumán",
+    "source": "mock"
+  }
+]
